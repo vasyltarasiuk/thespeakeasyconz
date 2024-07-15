@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://thespeakeasy.co.nz/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+
+	<channel>
+		<title>The Speakeasy</title>
+		<atom:link href="https://thespeakeasy.co.nz/feed/podcast" rel="self" type="application/rss+xml" />
+		<link>https://thespeakeasy.co.nz/</link>
+		<description>Entertainment Done Differently</description>
+		<lastBuildDate>Thu, 19 Aug 2021 02:17:45 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>&#xA9; 2022 The Speakeasy</copyright>
+		<itunes:subtitle>Entertainment Done Differently</itunes:subtitle>
+		<itunes:author>The Speakeasy</itunes:author>
+		<googleplay:author>The Speakeasy</googleplay:author>
+		<googleplay:email>admin@thespeakeasy.co.nz</googleplay:email>
+		<itunes:summary>Entertainment Done Differently</itunes:summary>
+		<googleplay:description>Entertainment Done Differently</googleplay:description>
+		<itunes:owner>
+			<itunes:name>The Speakeasy</itunes:name>
+			<itunes:email>admin@thespeakeasy.co.nz</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<googleplay:explicit>No</googleplay:explicit>
+			<generator>https://wordpress.org/?v=5.0.16</generator>
+<site xmlns="com-wordpress:feed-additions:1">106636939</site>		<item>
+			<title>MEDIA STUDIES PODCAST: S2:E6: Top 10 Real Life Supervillains</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-s2e6-top-10-real-life-supervillains/</link>
+			<pubDate>Thu, 24 Aug 2017 03:58:43 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=8414</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />]]></description>
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8414-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3?_=1" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3</a></audio>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8414-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3?_=1" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3</a></audio>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8414-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3?_=1" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/08/Media-Studies-S2-E6-Top-10-Real-Life-Villains.mp3</a></audio>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/8414/media-studies-podcast-s2e6-top-10-real-life-supervillains.mp3" length="21229024" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>0:00</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST Season 2 Episode 5: Spiderman</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-season-2-episode-5-spiderman/</link>
+			<pubDate>Mon, 24 Jul 2017 03:47:13 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=8205</guid>
+			<description><![CDATA[After a long abscence, our heroes delve into the world of spiderman. BTW we're releasing a podcast erry 2 weeks now.]]></description>
+			<itunes:subtitle><![CDATA[After a long abscence, our heroes delve into the world of spiderman. BTW were releasing a podcast erry 2 weeks now.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<p>After a long abscence, our heroes delve into the world of spiderman. BTW we&#8217;re releasing a podcast erry 2 weeks now.</p>
+<audio class="wp-audio-shortcode" id="audio-8205-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3?_=2" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3</a></audio>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<p>After a long abscence, our heroes delve into the world of spiderman. BTW we&#8217;re releasing a podcast erry 2 weeks now.</p>
+<audio class="wp-audio-shortcode" id="audio-8205-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3?_=2" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3</a></audio>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<p>After a long abscence, our heroes delve into the world of spiderman. BTW we&#8217;re releasing a podcast erry 2 weeks now.</p>
+<audio class="wp-audio-shortcode" id="audio-8205-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3?_=2" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/07/Media-Studies-S2-E5-Spiderman.mp3</a></audio>
+]]></googleplay:description>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/8205/media-studies-podcast-season-2-episode-5-spiderman.mp3" length="23814817" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>0:00</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST SEASON 2: EPISODE 2: BOOK ADAPTATIONS</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-season-2-episode-2-book-adaptations/</link>
+			<pubDate>Wed, 28 Jun 2017 23:40:16 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=7954</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />oh god]]></description>
+			<itunes:subtitle><![CDATA[oh god]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><audio class="wp-audio-shortcode" id="audio-7954-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3?_=3" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3</a></audio>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><audio class="wp-audio-shortcode" id="audio-7954-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3?_=3" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3</a></audio>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><audio class="wp-audio-shortcode" id="audio-7954-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3?_=3" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/06/Media-Studies-S2-E4-Book-Adaptations.mp3</a></audio>
+]]></googleplay:description>
+			<itunes:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/7954/media-studies-podcast-season-2-episode-2-book-adaptations.mp3" length="23568751" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>0:00</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST: SEASON 2 EPISODE 3: GLORIOUS RETURNS!</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-season-2-episode-3-glorious-returns/</link>
+			<pubDate>Mon, 17 Apr 2017 03:27:44 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6815</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our heroes return from a long.. uh... hiatus... to talk about all the cool shit that made glorious returns... and not so glorious ones.]]></description>
+			<itunes:subtitle><![CDATA[Our heroes return from a long.. uh... hiatus... to talk about all the cool shit that made glorious returns... and not so glorious ones.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes return from a long.. uh&#8230; hiatus&#8230; to talk about all the cool shit that made glorious returns&#8230; and not so glorious ones.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6815-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3?_=4" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes return from a long.. uh&#8230; hiatus&#8230; to talk about all the cool shit that made glorious returns&#8230; and not so glorious ones.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6815-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3?_=4" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes return from a long.. uh&#8230; hiatus&#8230; to talk about all the cool shit that made glorious returns&#8230; and not so glorious ones.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6815-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3?_=4" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E3-GLORIOUS-RETURNS.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6815/media-studies-podcast-season-2-episode-3-glorious-returns.mp3" length="20048803" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>27:51</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES SEASON 2 EPISODE 2: INTERNET PRANKS</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-season-2-episode-2-internet-pranks/</link>
+			<pubDate>Mon, 17 Apr 2017 03:17:48 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6810</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our heroes discuss the great internet pranks of our age...]]></description>
+			<itunes:subtitle><![CDATA[Our heroes discuss the great internet pranks of our age...]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss the great internet pranks of our age&#8230;</p>
+<audio class="wp-audio-shortcode" id="audio-6810-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3?_=5" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3</a></audio>
+<p>SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss the great internet pranks of our age&#8230;</p>
+<audio class="wp-audio-shortcode" id="audio-6810-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3?_=5" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3</a></audio>
+<p>SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss the great internet pranks of our age&#8230;</p>
+<audio class="wp-audio-shortcode" id="audio-6810-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3?_=5" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/04/Media-Studies-S2-E2-Internet-Pranks.mp3</a></audio>
+<p>SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6810/media-studies-season-2-episode-2-internet-pranks.mp3" length="19564492" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>27:10</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST: S2:E1: THE X MEN MOVIES</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-s2e1-the-x-men-movies/</link>
+			<pubDate>Tue, 14 Mar 2017 07:43:15 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6603</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />After short hiatus hiding from """tax collectors""", our heroes snuck into a movie theatre to see Logan, and discuss the X Men movies wth terrible Audio.
+
+
+
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/]]></description>
+			<itunes:subtitle><![CDATA[After short hiatus hiding from tax collectors, our heroes snuck into a movie theatre to see Logan, and discuss the X Men movies wth terrible Audio.
+
+
+
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2
+L]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After short hiatus hiding from &#8220;&#8221;&#8221;tax collectors&#8221;&#8221;&#8221;, our heroes snuck into a movie theatre to see Logan, and discuss the X Men movies wth terrible Audio.</p>
+<audio class="wp-audio-shortcode" id="audio-6603-6" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3?_=6" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3</a></audio>
+<p>SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After short hiatus hiding from &#8220;&#8221;&#8221;tax collectors&#8221;&#8221;&#8221;, our heroes snuck into a movie theatre to see Logan, and discuss the X Men movies wth terrible Audio.</p>
+<audio class="wp-audio-shortcode" id="audio-6603-6" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3?_=6" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3</a></audio>
+<p>SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After short hiatus hiding from &#8220;&#8221;&#8221;tax collectors&#8221;&#8221;&#8221;, our heroes snuck into a movie theatre to see Logan, and discuss the X Men movies wth terrible Audio.</p>
+<audio class="wp-audio-shortcode" id="audio-6603-6" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3?_=6" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/03/Media-Studies-S2-E1-The-XMen-Movies.mp3</a></audio>
+<p>SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6603/media-studies-podcast-s2e1-the-x-men-movies.mp3" length="25659892" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>35:38</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES: S1:E5: Censorship, Sensitivity and General Asshurt</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-s1e5-censorship-sensitivity-and-general-asshurt/</link>
+			<pubDate>Mon, 20 Feb 2017 00:20:58 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6518</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our Heroes discuss the PewDiePie Nazi Controversy, Milo Yiannohippopotamous, South Park and some other shit I forgot.]]></description>
+			<itunes:subtitle><![CDATA[Our Heroes discuss the PewDiePie Nazi Controversy, Milo Yiannohippopotamous, South Park and some other shit I forgot.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our Heroes discuss the PewDiePie Nazi Controversy, Milo Yiannohippopotamous, South Park and some other shit I forgot.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6518-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3?_=7" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our Heroes discuss the PewDiePie Nazi Controversy, Milo Yiannohippopotamous, South Park and some other shit I forgot.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6518-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3?_=7" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our Heroes discuss the PewDiePie Nazi Controversy, Milo Yiannohippopotamous, South Park and some other shit I forgot.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6518-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3?_=7" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E5-Censorship-Sensitivity-and-General-Asshurt.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6518/media-studies-s1e5-censorship-sensitivity-and-general-asshurt.mp3" length="29257307" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>40:38</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST S1:E3: Reboots 2: Retribution: The Beginning</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-s1e3-reboots-2-retribution-the-beginning/</link>
+			<pubDate>Sun, 12 Feb 2017 23:34:48 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6444</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />While taking respite from their lucrative new business venture, our heroes discuss the latest sequels, remakes and other shit coming out this year. SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2 LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/]]></description>
+			<itunes:subtitle><![CDATA[While taking respite from their lucrative new business venture, our heroes discuss the latest sequels, remakes and other shit coming out this year. SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2 LIKE US O]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>While taking respite from their lucrative new business venture, our heroes discuss the latest sequels, remakes and other shit coming out this year.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6444-8" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3?_=8" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>While taking respite from their lucrative new business venture, our heroes discuss the latest sequels, remakes and other shit coming out this year.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6444-8" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3?_=8" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>While taking respite from their lucrative new business venture, our heroes discuss the latest sequels, remakes and other shit coming out this year.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6444-8" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3?_=8" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E4-Reboots-2-Retribution-Remastered-Edition.mp3</a></audio><br />
+SUBSCRIBE ON ITUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACESPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6444/media-studies-podcast-s1e3-reboots-2-retribution-the-beginning.mp3" length="26158350" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>36:20</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST EP</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-ep/</link>
+			<pubDate>Sun, 05 Feb 2017 22:04:34 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6425</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />After discussing a new business opportunity, our heroes try and figure out the worst fanbase. Is it Bronies? Is is Comic Fans? Is it the Left Wing? Is it Call of Duty Haters? It's probably Bronies aye, Like, real talk.
+
+
+
+SUBSCRIBU: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2
+
+LIKE OUR FRIENDSPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885]]></description>
+			<itunes:subtitle><![CDATA[After discussing a new business opportunity, our heroes try and figure out the worst fanbase. Is it Bronies? Is is Comic Fans? Is it the Left Wing? Is it Call of Duty Haters? Its probably Bronies aye, Like, real talk.
+
+
+
+SUBSCRIBU: https://itunes.app]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After discussing a new business opportunity, our heroes try and figure out the worst fanbase. Is it Bronies? Is is Comic Fans? Is it the Left Wing? Is it Call of Duty Haters? It&#8217;s probably Bronies aye, Like, real talk.</p>
+<audio class="wp-audio-shortcode" id="audio-6425-9" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3?_=9" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3</a></audio>
+<p>SUBSCRIBU: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FRIENDSPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After discussing a new business opportunity, our heroes try and figure out the worst fanbase. Is it Bronies? Is is Comic Fans? Is it the Left Wing? Is it Call of Duty Haters? It&#8217;s probably Bronies aye, Like, real talk.</p>
+<audio class="wp-audio-shortcode" id="audio-6425-9" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3?_=9" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3</a></audio>
+<p>SUBSCRIBU: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FRIENDSPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After discussing a new business opportunity, our heroes try and figure out the worst fanbase. Is it Bronies? Is is Comic Fans? Is it the Left Wing? Is it Call of Duty Haters? It&#8217;s probably Bronies aye, Like, real talk.</p>
+<audio class="wp-audio-shortcode" id="audio-6425-9" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3?_=9" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/02/Media-Studies-S1-E3-The-Worst-Fanbases-in-the-Land.mp3</a></audio>
+<p>SUBSCRIBU: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FRIENDSPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6425/media-studies-podcast-ep.mp3" length="30250993" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>42:01</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST S1E2: TV SHOWS THAT NEED TO JUST DIE ALREADY (AND SOME THAT DON&#8217;T)</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-s1e2-tv-shows-that-need-to-just-die-already-and-some-that-dont/</link>
+			<pubDate>Mon, 30 Jan 2017 00:21:38 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6399</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our heroes discuss long running TV Shows. Can we please cancel The Simpsons already? My god.
+BIT O DODGY SOUND THIS WEEK. PODCASTER'S FOLLY: RECORDED ON THE LAPTOP MIC INSTEAD OF THE MAIN ONE GODDAMN IT]]></description>
+			<itunes:subtitle><![CDATA[Our heroes discuss long running TV Shows. Can we please cancel The Simpsons already? My god.
+BIT O DODGY SOUND THIS WEEK. PODCASTERS FOLLY: RECORDED ON THE LAPTOP MIC INSTEAD OF THE MAIN ONE GODDAMN IT]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss long running TV Shows. Can we please cancel The Simpsons already? My god.<br />
+BIT O DODGY SOUND THIS WEEK. PODCASTER&#8217;S FOLLY: RECORDED ON THE LAPTOP MIC INSTEAD OF THE MAIN ONE GODDAMN IT</p>
+<audio class="wp-audio-shortcode" id="audio-6399-10" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3?_=10" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3</a></audio>
+<p>SUBSCRIBU: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FRIENDSPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss long running TV Shows. Can we please cancel The Simpsons already? My god.<br />
+BIT O DODGY SOUND THIS WEEK. PODCASTER&#8217;S FOLLY: RECORDED ON THE LAPTOP MIC INSTEAD OF THE MAIN ONE GODDAMN IT</p>
+<audio class="wp-audio-shortcode" id="audio-6399-10" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3?_=10" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3</a></audio>
+<p>SUBSCRIBU: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FRIENDSPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss long running TV Shows. Can we please cancel The Simpsons already? My god.<br />
+BIT O DODGY SOUND THIS WEEK. PODCASTER&#8217;S FOLLY: RECORDED ON THE LAPTOP MIC INSTEAD OF THE MAIN ONE GODDAMN IT</p>
+<audio class="wp-audio-shortcode" id="audio-6399-10" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3?_=10" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E2-TV-Shows-that-need-to-bloody-die-already.mp3</a></audio>
+<p>SUBSCRIBU: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FRIENDSPACE: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6399/media-studies-podcast-s1e2-tv-shows-that-need-to-just-die-already-and-some-that-dont.mp3" length="30087689" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>41:47</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST REBOOT: S1:E1 YOUTUBE CULTURE</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-reboot-s1e1-youtube-culture/</link>
+			<pubDate>Mon, 23 Jan 2017 00:53:13 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6343</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />After a heated argument with the manager of Blockbuster Uganda, Wengu activates his Stand, DEATH GRIPS, which sends our heroes back to their original jobs at an unnamed coffee shop in Auckland and restarts the Podcast's shitty storyline. Here, Nige and Jabu talk about Youtube communities. ]]></description>
+			<itunes:subtitle><![CDATA[After a heated argument with the manager of Blockbuster Uganda, Wengu activates his Stand, DEATH GRIPS, which sends our heroes back to their original jobs at an unnamed coffee shop in Auckland and restarts the Podcasts shitty storyline. Here, Nige and Ja]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After a heated argument with the manager of Blockbuster Uganda, Wengu activates his Stand, DEATH GRIPS, which sends our heroes back to their original jobs at an unnamed coffee shop in Auckland. Here, Nige and Jabu talk about Youtube communities.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6343-11" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3?_=11" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3</a></audio><br />
+SCRUBSCRIBE ON iTUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACEBOOK. NOW. https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After a heated argument with the manager of Blockbuster Uganda, Wengu activates his Stand, DEATH GRIPS, which sends our heroes back to their original jobs at an unnamed coffee shop in Auckland. Here, Nige and Jabu talk about Youtube communities.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6343-11" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3?_=11" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3</a></audio><br />
+SCRUBSCRIBE ON iTUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACEBOOK. NOW. https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?w=1400 1400w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>After a heated argument with the manager of Blockbuster Uganda, Wengu activates his Stand, DEATH GRIPS, which sends our heroes back to their original jobs at an unnamed coffee shop in Auckland. Here, Nige and Jabu talk about Youtube communities.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6343-11" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3?_=11" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-S1-E1-Youtube-Culture.mp3</a></audio><br />
+SCRUBSCRIBE ON iTUNES: https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2<br />
+LIKE US ON FACEBOOK. NOW. https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2017/01/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6343/media-studies-podcast-reboot-s1e1-youtube-culture.mp3" length="29580817" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>41:05</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES PODCAST LOST EPISODE 12: Christmas Blows</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-lost-episode-12-christmas-blows/</link>
+			<pubDate>Fri, 06 Jan 2017 06:08:50 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6136</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />In which our heroes shit on Christmas and sum up 2016 XDDD IT WAS SO BAD HARAMBE XXDDD Sorry about the audio, new mics and junk. Goddamn Bleeding effect for days. SUBSCRIBE OR GO TO TO GULAG https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2 LIKE OUR PAGE VERY NICEU https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/]]></description>
+			<itunes:subtitle><![CDATA[In which our heroes shit on Christmas and sum up 2016 XDDD IT WAS SO BAD HARAMBE XXDDD Sorry about the audio, new mics and junk. Goddamn Bleeding effect for days. SUBSCRIBE OR GO TO TO GULAG https://itunes.apple.com/nz/podcast/media-studies-podcast/id114]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In which our heroes shit on Christmas and sum up 2016 XDDD IT WAS SO BAD HARAMBE XXDDD<br />
+Sorry about the audio, new mics and junk. Goddamn Bleeding effect for days.</p>
+<audio class="wp-audio-shortcode" id="audio-6136-12" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3?_=12" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3</a></audio>
+<p>SUBSCRIBE OR GO TO TO GULAG</p>
+<p>https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR PAGE VERY NICEU<br />
+https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In which our heroes shit on Christmas and sum up 2016 XDDD IT WAS SO BAD HARAMBE XXDDD<br />
+Sorry about the audio, new mics and junk. Goddamn Bleeding effect for days.</p>
+<audio class="wp-audio-shortcode" id="audio-6136-12" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3?_=12" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3</a></audio>
+<p>SUBSCRIBE OR GO TO TO GULAG</p>
+<p>https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR PAGE VERY NICEU<br />
+https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In which our heroes shit on Christmas and sum up 2016 XDDD IT WAS SO BAD HARAMBE XXDDD<br />
+Sorry about the audio, new mics and junk. Goddamn Bleeding effect for days.</p>
+<audio class="wp-audio-shortcode" id="audio-6136-12" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3?_=12" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2017/01/Media-Studies-LOST-EPISODE-12-Christmas-Sucks.mp3</a></audio>
+<p>SUBSCRIBE OR GO TO TO GULAG</p>
+<p>https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR PAGE VERY NICEU<br />
+https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6136/media-studies-podcast-lost-episode-12-christmas-blows.mp3" length="24621396" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>34:12</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>Media Studies: Episode 18: Star Wars: Rogue One Spoilercast.</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-episode-18-star-wars-rogue-one-spoilercast/</link>
+			<pubDate>Sun, 18 Dec 2016 08:17:33 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=6036</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our heroes spoil the hell out of Rogue One.
+Reviews are mixed.
+
+SUBSCRIBEU ON ItUNESU https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2
+
+LIKE OUR FACEBOOK PAGE YA DINGUS: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/]]></description>
+			<itunes:subtitle><![CDATA[Our heroes spoil the hell out of Rogue One.
+Reviews are mixed.
+
+SUBSCRIBEU ON ItUNESU https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2
+
+LIKE OUR FACEBOOK PAGE YA DINGUS: https://www.facebook.com/The-Media-Studies-Podcast-1]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our Heroes spoil the hell out of Rogue One.<br />
+Reviews are mixed.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6036-13" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3?_=13" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3</a></audio><br />
+SUBSCRIBEU ON ItUNESU https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FACEBOOK PAGE YA DINGUS: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our Heroes spoil the hell out of Rogue One.<br />
+Reviews are mixed.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6036-13" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3?_=13" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3</a></audio><br />
+SUBSCRIBEU ON ItUNESU https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FACEBOOK PAGE YA DINGUS: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our Heroes spoil the hell out of Rogue One.<br />
+Reviews are mixed.</p>
+<p><audio class="wp-audio-shortcode" id="audio-6036-13" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3?_=13" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-19-ROGUE-ONE-SPOILERCAST.mp3</a></audio><br />
+SUBSCRIBEU ON ItUNESU https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FACEBOOK PAGE YA DINGUS: https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/6036/media-studies-episode-18-star-wars-rogue-one-spoilercast.mp3" length="32575685" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>45:15</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>Media Studies Podcast: Episode 18: Dark Fantasy</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-episode-18-dark-fantasy/</link>
+			<pubDate>Sun, 11 Dec 2016 02:50:45 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=5984</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our heroes discuss how hard it is to describe Dark Fantasy with gratuitious use of the word "Nebulous" as well as mark out about how cool The Witcher is. Also, Star Wars is Dark Fantasy. Deal with it.]]></description>
+			<itunes:subtitle><![CDATA[Our heroes discuss how hard it is to describe Dark Fantasy with gratuitious use of the word Nebulous as well as mark out about how cool The Witcher is. Also, Star Wars is Dark Fantasy. Deal with it.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss how hard it is to describe Dark Fantasy with gratuitious use of the word &#8220;Nebulous&#8221; as well as mark out about how cool The Witcher is. Also, Star Wars is Dark Fantasy. Deal with it.</p>
+<audio class="wp-audio-shortcode" id="audio-5984-14" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3?_=14" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3</a></audio>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss how hard it is to describe Dark Fantasy with gratuitious use of the word &#8220;Nebulous&#8221; as well as mark out about how cool The Witcher is. Also, Star Wars is Dark Fantasy. Deal with it.</p>
+<audio class="wp-audio-shortcode" id="audio-5984-14" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3?_=14" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3</a></audio>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss how hard it is to describe Dark Fantasy with gratuitious use of the word &#8220;Nebulous&#8221; as well as mark out about how cool The Witcher is. Also, Star Wars is Dark Fantasy. Deal with it.</p>
+<audio class="wp-audio-shortcode" id="audio-5984-14" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3?_=14" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-18-Dark-Fantasy.mp3</a></audio>
+]]></googleplay:description>
+			<itunes:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/5984/media-studies-podcast-episode-18-dark-fantasy.mp3" length="27030083" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>37:32</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>MEDIA STUDIES EPISODE 17 CRINGE LIVESTREAM MEME AWARDS 2016 40,000 PERCENT</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-episode-17-cringe-livestream-meme-awards-2016-40000-percent/</link>
+			<pubDate>Mon, 05 Dec 2016 06:33:48 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=5948</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />In a special livestream, Our heroes drunkenly count down the hottest memes, may-mays, funnies, goofs and yam-yams in 2016. Yeah, we've got to this point.
+
+SUBSCRIBE TO US ON ITUNES, YA DOG.
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2
+
+LIKE OUR FACEBOOK PAGE OR SUFFER THE CONSEQUENCES.
+https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/]]></description>
+			<itunes:subtitle><![CDATA[In a special livestream, Our heroes drunkenly count down the hottest memes, may-mays, funnies, goofs and yam-yams in 2016. Yeah, weve got to this point.
+
+SUBSCRIBE TO US ON ITUNES, YA DOG.
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id11]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In a special livestream, Our heroes drunkenly count down the hottest memes, may-mays, funnies, goofs and yam-yams in 2016. Yeah, we&#8217;ve got to this point.</p>
+<audio class="wp-audio-shortcode" id="audio-5948-15" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3?_=15" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3</a></audio>
+<p>&nbsp;</p>
+<p>SUBSCRIBE TO US ON ITUNES, YA DOG.<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FACEBOOK PAGE OR SUFFER THE CONSEQUENCES.<br />
+https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In a special livestream, Our heroes drunkenly count down the hottest memes, may-mays, funnies, goofs and yam-yams in 2016. Yeah, we&#8217;ve got to this point.</p>
+<audio class="wp-audio-shortcode" id="audio-5948-15" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3?_=15" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3</a></audio>
+<p>&nbsp;</p>
+<p>SUBSCRIBE TO US ON ITUNES, YA DOG.<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FACEBOOK PAGE OR SUFFER THE CONSEQUENCES.<br />
+https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In a special livestream, Our heroes drunkenly count down the hottest memes, may-mays, funnies, goofs and yam-yams in 2016. Yeah, we&#8217;ve got to this point.</p>
+<audio class="wp-audio-shortcode" id="audio-5948-15" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3?_=15" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/12/Media-Studies-Chapter-17-Cringe-Livestream-Special-Meme-Awards-2016.mp3</a></audio>
+<p>&nbsp;</p>
+<p>SUBSCRIBE TO US ON ITUNES, YA DOG.<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<p>LIKE OUR FACEBOOK PAGE OR SUFFER THE CONSEQUENCES.<br />
+https://www.facebook.com/The-Media-Studies-Podcast-1906752472885885/</p>
+]]></googleplay:description>
+			<itunes:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/5948/media-studies-episode-17-cringe-livestream-meme-awards-2016-40000-percent.mp3" length="33323961" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>46:17</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>Media Studies: Episode 16: Reboots and Remakes and Reimaginings and Sequels and ..</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-episode-16-reboots-and-remakes-and-reimaginings-and-sequels-and/</link>
+			<pubDate>Fri, 25 Nov 2016 07:58:17 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=5841</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />In which our heroes talk about Sequels. The Good ones and the Terrible ones and the okay ones I guess.]]></description>
+			<itunes:subtitle><![CDATA[In which our heroes talk about Sequels. The Good ones and the Terrible ones and the okay ones I guess.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In which our heroes talk about Sequels. The Good ones and the Terrible ones and the okay ones I guess.</p>
+<p><audio class="wp-audio-shortcode" id="audio-5841-16" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3?_=16" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3</a></audio><br />
+SCRUBSRIB<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In which our heroes talk about Sequels. The Good ones and the Terrible ones and the okay ones I guess.</p>
+<p><audio class="wp-audio-shortcode" id="audio-5841-16" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3?_=16" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3</a></audio><br />
+SCRUBSRIB<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?w=1400 1400w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=150%2C150 150w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=300%2C300 300w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=1024%2C1024 1024w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>In which our heroes talk about Sequels. The Good ones and the Terrible ones and the okay ones I guess.</p>
+<p><audio class="wp-audio-shortcode" id="audio-5841-16" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3?_=16" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-16-Reboots-and-Sequels-n-shit.mp3</a></audio><br />
+SCRUBSRIB<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></googleplay:description>
+			<itunes:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Podcast-Logo-Final.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/5841/media-studies-episode-16-reboots-and-remakes-and-reimaginings-and-sequels-and.mp3" length="24737688" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>34:21</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>Media Studies Podcast TRUMPMAS / TRUMPOCALYPSE SPECIAL</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-trumpmas-trumpocalypse-special/</link>
+			<pubDate>Thu, 10 Nov 2016 02:48:20 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=5648</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />We are on a completely new timeline now. Our heroes discuss whatever the hell just happened. Why Hillary Clinton potentially ruined everything for everyone. How Bernie could have saved us. How we possibily avoided Nuclear war. Research whether Mike Pense, the real president, will be a regressive ass and how 20 years of hating on whitey and the working class can come bite you in the ass.
+*TRIGGER WARNING* Mild Donald Trump Support. Please direct all hate to the following email address: HillaryRC@us.govt]]></description>
+			<itunes:subtitle><![CDATA[We are on a completely new timeline now. Our heroes discuss whatever the hell just happened. Why Hillary Clinton potentially ruined everything for everyone. How Bernie could have saved us. How we possibily avoided Nuclear war. Research whether Mike Pense]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>We are on a completely new timeline now. Our heroes discuss whatever the hell just happened. Why Hillary Clinton potentially ruined everything for everyone. How Bernie could have saved us. How we possibily avoided Nuclear war. Research whether Mike Pense, the real president, will be a regressive ass and how 20 years of hating on whitey and the working class can come bite you in the ass.<br />
+*TRIGGER WARNING* Mild Donald Trump Support. Please direct all hate to the following email address: HillaryRC@us.govt</p>
+<p>Follow us on iTunes for more aural shitposts<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<audio class="wp-audio-shortcode" id="audio-5648-17" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3?_=17" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3</a></audio>
+<p><img class="alignnone  wp-image-5651" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=672%2C690" alt="nate-silver-election-forecast-873x898" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=292%2C300 292w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=873%2C898 873w" sizes="(max-width: 672px) 100vw, 672px" data-recalc-dims="1" /></p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>We are on a completely new timeline now. Our heroes discuss whatever the hell just happened. Why Hillary Clinton potentially ruined everything for everyone. How Bernie could have saved us. How we possibily avoided Nuclear war. Research whether Mike Pense, the real president, will be a regressive ass and how 20 years of hating on whitey and the working class can come bite you in the ass.<br />
+*TRIGGER WARNING* Mild Donald Trump Support. Please direct all hate to the following email address: HillaryRC@us.govt</p>
+<p>Follow us on iTunes for more aural shitposts<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<audio class="wp-audio-shortcode" id="audio-5648-17" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3?_=17" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3</a></audio>
+<p><img class="alignnone  wp-image-5651" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=672%2C690" alt="nate-silver-election-forecast-873x898" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=292%2C300 292w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=873%2C898 873w" sizes="(max-width: 672px) 100vw, 672px" data-recalc-dims="1" /></p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>We are on a completely new timeline now. Our heroes discuss whatever the hell just happened. Why Hillary Clinton potentially ruined everything for everyone. How Bernie could have saved us. How we possibily avoided Nuclear war. Research whether Mike Pense, the real president, will be a regressive ass and how 20 years of hating on whitey and the working class can come bite you in the ass.<br />
+*TRIGGER WARNING* Mild Donald Trump Support. Please direct all hate to the following email address: HillaryRC@us.govt</p>
+<p>Follow us on iTunes for more aural shitposts<br />
+https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+<audio class="wp-audio-shortcode" id="audio-5648-17" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3?_=17" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-14-TRUMPMAS-END-OF-DAYS-SPECIAL.mp3</a></audio>
+<p><img class="alignnone  wp-image-5651" src="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=672%2C690" alt="nate-silver-election-forecast-873x898" srcset="https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=292%2C300 292w, https://i0.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Nate-Silver-Election-Forecast-873x898.png?resize=873%2C898 873w" sizes="(max-width: 672px) 100vw, 672px" data-recalc-dims="1" /></p>
+]]></googleplay:description>
+			<itunes:image href="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?fit=207%2C258&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/15055843_593682830818897_1777762062129160600_n.jpg?fit=207%2C258&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/5648/media-studies-podcast-trumpmas-trumpocalypse-special.mp3" length="32839608" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>45:37</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>Media Studies: Episode 12.5: Dragonball Super Shitshow</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-episode-12-5-dragonball-super-shitshow/</link>
+			<pubDate>Fri, 04 Nov 2016 02:41:03 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=5635</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our heroes discuss the new series of the Dragonball Super. Originally, we had a deluxe podcast covering Dragonball and Dragonball Z that preceeded this podcast, but it was too big. Also, it was basically two hours of "AND THEN HIS POWERLEVEL WAS HIGHER THAN HIS BUT THEN HE POWERED UP THEN HIS OPPONENT POWERED UP AGAIN"]]></description>
+			<itunes:subtitle><![CDATA[Our heroes discuss the new series of the Dragonball Super. Originally, we had a deluxe podcast covering Dragonball and Dragonball Z that preceeded this podcast, but it was too big. Also, it was basically two hours of AND THEN HIS POWERLEVEL WAS HIGHER TH]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss the new series of the Dragonball. Originally, we had a deluxe podcast covering Dragonball and Dragonball Z that preceeded this podcast, but it was too big. Also, it was basically two hours of &#8220;AND THEN HIS POWERLEVEL WAS HIGHER THAN HIS BUT THEN HE POWERED UP THEN HIS OPPONENT POWERED UP AGAIN&#8221;.<br />
+GT is also discussed. ugh,.</p>
+<audio class="wp-audio-shortcode" id="audio-5635-18" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3?_=18" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3</a></audio>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss the new series of the Dragonball. Originally, we had a deluxe podcast covering Dragonball and Dragonball Z that preceeded this podcast, but it was too big. Also, it was basically two hours of &#8220;AND THEN HIS POWERLEVEL WAS HIGHER THAN HIS BUT THEN HE POWERED UP THEN HIS OPPONENT POWERED UP AGAIN&#8221;.<br />
+GT is also discussed. ugh,.</p>
+<audio class="wp-audio-shortcode" id="audio-5635-18" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3?_=18" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3</a></audio>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=150%2C150 150w, https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes discuss the new series of the Dragonball. Originally, we had a deluxe podcast covering Dragonball and Dragonball Z that preceeded this podcast, but it was too big. Also, it was basically two hours of &#8220;AND THEN HIS POWERLEVEL WAS HIGHER THAN HIS BUT THEN HE POWERED UP THEN HIS OPPONENT POWERED UP AGAIN&#8221;.<br />
+GT is also discussed. ugh,.</p>
+<audio class="wp-audio-shortcode" id="audio-5635-18" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3?_=18" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/11/Media-Studies-Chapter-13-Dragonball-Super-and-maybe-GT.-I-guess-1.mp3</a></audio>
+]]></googleplay:description>
+			<itunes:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?fit=267%2C350&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i2.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/11/Super_Saiyan7.jpg?fit=267%2C350&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/5635/media-studies-episode-12-5-dragonball-super-shitshow.mp3" length="22660662" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>31:28</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>Media Studies Podcast: Episode 11: Mature Animated Television (No, not that)</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-podcast-episode-11-mature-animated-television-no-not-that/</link>
+			<pubDate>Fri, 21 Oct 2016 08:25:06 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=5533</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />Our heroes acclimate to a brand new work culture and discuss the current state of Animation. Drawn Together is cancer, dude.
+
+First 5 minutes sound like garbagebecause I accidentally recorded with the built in mic. Ha-woops.]]></description>
+			<itunes:subtitle><![CDATA[Our heroes acclimate to a brand new work culture and discuss the current state of Animation. Drawn Together is cancer, dude.
+
+First 5 minutes sound like garbagebecause I accidentally recorded with the built in mic. Ha-woops.]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes acclimate to a brand new work culture and discuss the current state of Animation. Drawn Together is cancer, dude.</p>
+<p>First 5 minutes sound like garbage because I accidentally recorded with the built in mic. Ha-woops.</p>
+<audio class="wp-audio-shortcode" id="audio-5533-19" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3?_=19" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3</a></audio>
+<p>SCRUBSCRIBE https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes acclimate to a brand new work culture and discuss the current state of Animation. Drawn Together is cancer, dude.</p>
+<p>First 5 minutes sound like garbage because I accidentally recorded with the built in mic. Ha-woops.</p>
+<audio class="wp-audio-shortcode" id="audio-5533-19" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3?_=19" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3</a></audio>
+<p>SCRUBSCRIBE https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><p>Our heroes acclimate to a brand new work culture and discuss the current state of Animation. Drawn Together is cancer, dude.</p>
+<p>First 5 minutes sound like garbage because I accidentally recorded with the built in mic. Ha-woops.</p>
+<audio class="wp-audio-shortcode" id="audio-5533-19" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3?_=19" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-11-Mature-Cartoons-Not-Hentai.mp3</a></audio>
+<p>SCRUBSCRIBE https://itunes.apple.com/nz/podcast/media-studies-podcast/id1140775890?mt=2</p>
+]]></googleplay:description>
+			<itunes:image href="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/5533/media-studies-podcast-episode-11-mature-animated-television-no-not-that.mp3" length="29694576" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>41:15</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+		<item>
+			<title>Media Studies: Episode 10: Online Journalism</title>
+			<link>https://thespeakeasy.co.nz/podcast/media-studies-episode-10-online-journalism/</link>
+			<pubDate>Fri, 14 Oct 2016 11:17:44 +0000</pubDate>
+			<dc:creator>Nigel Mckenzie-Ryan</dc:creator>
+			<guid isPermaLink="false">http://thespeakeasy.co.nz/?post_type=podcast&#038;p=5434</guid>
+			<description><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" />These super ugly sons of bitches discuss ten reasons why journalism is dying and basically.... you're fucking brainwashed. Number Seven will shock you! *insert barely relevant GIF from Disney here*]]></description>
+			<itunes:subtitle><![CDATA[These super ugly sons of bitches discuss ten reasons why journalism is dying and basically.... youre fucking brainwashed. Number Seven will shock you! *insert barely relevant GIF from Disney here*]]></itunes:subtitle>
+			<content:encoded><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><h1><strong><span style="color: #99cc00">These super ugly sons of bitches discuss ten reasons why journalism is dying!</span></strong><br />
+<strong><span style="color: #99cc00"> and basically&#8230;. you&#8217;re fucking brainwashed. </span></strong><br />
+<strong><span style="color: #99cc00">Number Seven will shock you!<br />
+*insert barely relevant GIF from Disney here*<br />
+</span></strong></h1>
+<audio class="wp-audio-shortcode" id="audio-5434-20" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3?_=20" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3</a></audio>
+]]></content:encoded>
+			<itunes:summary><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><h1><strong><span style="color: #99cc00">These super ugly sons of bitches discuss ten reasons why journalism is dying!</span></strong><br />
+<strong><span style="color: #99cc00"> and basically&#8230;. you&#8217;re fucking brainwashed. </span></strong><br />
+<strong><span style="color: #99cc00">Number Seven will shock you!<br />
+*insert barely relevant GIF from Disney here*<br />
+</span></strong></h1>
+<audio class="wp-audio-shortcode" id="audio-5434-20" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3?_=20" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3</a></audio>
+]]></itunes:summary>
+			<googleplay:description><![CDATA[<img width="150" height="150" src="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?w=1400 1400w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=150%2C150 150w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=300%2C300 300w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=1024%2C1024 1024w, https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?resize=125%2C125 125w" sizes="(max-width: 150px) 100vw, 150px" /><h1><strong><span style="color: #99cc00">These super ugly sons of bitches discuss ten reasons why journalism is dying!</span></strong><br />
+<strong><span style="color: #99cc00"> and basically&#8230;. you&#8217;re fucking brainwashed. </span></strong><br />
+<strong><span style="color: #99cc00">Number Seven will shock you!<br />
+*insert barely relevant GIF from Disney here*<br />
+</span></strong></h1>
+<audio class="wp-audio-shortcode" id="audio-5434-20" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3?_=20" /><a href="http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3">http://thespeakeasy.co.nz/wp-content/uploads/2016/10/Media-Studies-Chapter-10-Online-Journalism.mp3</a></audio>
+]]></googleplay:description>
+			<itunes:image href="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?fit=1400%2C1400&#038;ssl=1"></itunes:image>
+			<googleplay:image href="https://i1.wp.com/thespeakeasy.co.nz/wp-content/uploads/2016/09/Podcast-Logo-Final-1.png?fit=1400%2C1400&#038;ssl=1"></googleplay:image>
+			<enclosure url="https://thespeakeasy.co.nz/podcast-download/5434/media-studies-episode-10-online-journalism.mp3" length="26128863" type="audio/mpeg"></enclosure>
+			<itunes:explicit>clean</itunes:explicit>
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<itunes:duration>36:17</itunes:duration>
+			<itunes:author>Nigel Mckenzie-Ryan</itunes:author>
+		</item>
+	</channel>
+</rss>

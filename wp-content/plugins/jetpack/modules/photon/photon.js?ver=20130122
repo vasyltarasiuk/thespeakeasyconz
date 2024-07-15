@@ -1,0 +1,91 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+
+
+(function($){
+	/**
+	 * For images lacking explicit dimensions and needing them, try to add them.
+	 */
+	var restore_dims = function() {
+		$( 'img[data-recalc-dims]' ).each( function recalc() {
+			var $this = $( this );
+			if ( this.complete ) {
+
+				// Support for lazy loading: if there is a lazy-src
+				// attribute and it's value is not the same as the current src we
+				// should wait until the image load event
+				if ( $this.data( 'lazy-src' ) && $this.attr( 'src' ) !== $this.data( 'lazy-src' ) ) {
+					$this.load( recalc );
+					return;
+				}
+
+				var width = this.width,
+					height = this.height;
+
+				if ( width && width > 0 && height && height > 0 ) {
+					$this.attr( {
+						width: width,
+						height: height
+					} );
+
+					reset_for_retina( this );
+				}
+			}
+			else {
+				$this.load( recalc );
+			}
+		} );
+	},
+
+	/**
+	 * Modify given image's markup so that devicepx-jetpack.js will act on the image and it won't be reprocessed by this script.
+	 */
+	reset_for_retina = function( img ) {
+		$( img ).removeAttr( 'data-recalc-dims' ).removeAttr( 'scale' );
+	};
+
+	/**
+	 * Check both when page loads, and when IS is triggered.
+	 */
+	$( document ).ready( restore_dims );
+
+	if ( 'on' in $.fn ) {
+		$( document.body ).on( 'post-load', restore_dims );
+	} else {
+		$( document ).delegate( 'body', 'post-load', restore_dims );
+	}
+})(jQuery);
+
+
+}
+/*
+     FILE ARCHIVED ON 02:32:09 Jun 05, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:46:51 Jul 12, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.58
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.017
+  esindex: 0.011
+  cdx.remote: 128.599
+  LoadShardBlock: 258.394 (3)
+  PetaboxLoader3.datanode: 127.025 (6)
+  PetaboxLoader3.resolve: 386.527 (4)
+  load_resource: 417.854 (2)
+  loaddict: 55.959
+*/
